@@ -24,3 +24,16 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
     - Aufbau Verb-Noun
 - Module
 - Variablen
+- PipeLine1
+- Formatierung  der Ausgabe mit
+    ```powershell
+    Format-Tabe
+    Format-List
+    Format-Wide
+    ```
+- Einfache Ausgabe
+    ```powershell
+    Out-Host
+    Out-File
+    Out-Printer
+    ```
