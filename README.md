@@ -22,3 +22,4 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
     - ConfirmPreference
 - cmdlet
     - Aufbau Verb-Noun
+- Module
