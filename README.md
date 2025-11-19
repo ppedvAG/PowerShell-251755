@@ -41,3 +41,4 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
 - Messen
 - Selektieren
 - Konvertieren / Importieren / Exportieren
+- Filtern
