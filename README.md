@@ -1,7 +1,7 @@
 # PowerShell-251755
 KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der ppedv AG
 
-[Kursblatt](https://ppedv.de/schulung/kurse/PowershellAdministrationWindowslWMIActiveDirectoryIIS7cmdletspipelinesPs1Skripte.aspx)
+[Kursblatt](https://ppedv.de/schulung/kurse/PowershellAdministrationWindowslWMIActiveDirectoryIIS7cmdletspipelinesPs1Skripte.aspx/?affid=PNXYL)
 
 ### Agenda:
 - Einführung
@@ -42,3 +42,11 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
 - Selektieren
 - Konvertieren / Importieren / Exportieren
 - Filtern
+- Aufzählen
+- Schleifen
+- Verzweigung
+- Pipeline2
+- Skriptsicherheit
+- Scripting
+    - Parameter
+    - Comment Based Help
